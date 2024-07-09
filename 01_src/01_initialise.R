@@ -5,7 +5,9 @@
 
 library(renv)
 
-renv::deactivate(clean = TRUE)
+# renv::deactivate(clean = TRUE)
+
+# renv::init()
 
 # renv::activate()
 
